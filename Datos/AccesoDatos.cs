@@ -26,6 +26,19 @@ namespace Datos
             }
         }
 
+        public SqlDataAdapter ObtenerAdaptador(String consultaSql, SqlConnection conexion)
+        {
+            SqlDataAdapter adaptador;
+            try
+            {
+                adaptador = new SqlDataAdapter(consultaSql, conexion);
+                return adaptador;
+            }
+            catch (Exception ex)
+            {
+                return null;
+            }
+        }
         public int EjecutarTransaccion(string consultaSql, SqlConnection conexion)
         {
             int filasAfectadas;

@@ -7,15 +7,15 @@
       "RelativeMoniker": "D:0:0:{E5810D38-07D5-4204-92CA-74E429B75886}|Datos\\Datos.csproj|solutionrelative:datos\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE778AF7-C44F-4DC3-B659-D68F57BE6530}|Vistas\\Vistas.csproj|c:\\users\\bubit\\desktop\\tp8-grupo18\\vistas\\eliminarsucursales.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{FE778AF7-C44F-4DC3-B659-D68F57BE6530}|Vistas\\Vistas.csproj|C:\\Users\\bubit\\Desktop\\TP8-Grupo18\\vistas\\eliminarsucursales.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{FE778AF7-C44F-4DC3-B659-D68F57BE6530}|Vistas\\Vistas.csproj|solutionrelative:vistas\\eliminarsucursales.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE778AF7-C44F-4DC3-B659-D68F57BE6530}|Vistas\\Vistas.csproj|c:\\users\\bubit\\desktop\\tp8-grupo18\\vistas\\listadosucursales.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{FE778AF7-C44F-4DC3-B659-D68F57BE6530}|Vistas\\Vistas.csproj|C:\\Users\\bubit\\Desktop\\TP8-Grupo18\\vistas\\listadosucursales.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{FE778AF7-C44F-4DC3-B659-D68F57BE6530}|Vistas\\Vistas.csproj|solutionrelative:vistas\\listadosucursales.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE778AF7-C44F-4DC3-B659-D68F57BE6530}|Vistas\\Vistas.csproj|c:\\users\\bubit\\desktop\\tp8-grupo18\\vistas\\agregarsucursal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{FE778AF7-C44F-4DC3-B659-D68F57BE6530}|Vistas\\Vistas.csproj|C:\\Users\\bubit\\Desktop\\TP8-Grupo18\\vistas\\agregarsucursal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{FE778AF7-C44F-4DC3-B659-D68F57BE6530}|Vistas\\Vistas.csproj|solutionrelative:vistas\\agregarsucursal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "Datos\\AccesoDatos.cs",
               "ToolTip": "C:\\Users\\bubit\\Desktop\\TP8-Grupo18\\Datos\\AccesoDatos.cs",
               "RelativeToolTip": "Datos\\AccesoDatos.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAIwCQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwCgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-31T16:59:06.793Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "Vistas\\EliminarSucursales.aspx",
               "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-05-31T16:49:12.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-31T16:49:12.754Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "Vistas\\ListadoSucursales.aspx",
               "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-05-31T16:48:42.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-31T16:48:42.027Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "Vistas\\AgregarSucursal.aspx",
               "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-05-31T16:48:14.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-31T16:48:14.098Z"
             }
           ]
         },
