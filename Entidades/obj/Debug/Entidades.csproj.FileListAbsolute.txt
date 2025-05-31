@@ -1,0 +1,6 @@
+C:\Users\bubit\Desktop\TP8-Grupo18\Entidades\bin\Debug\Entidades.dll
+C:\Users\bubit\Desktop\TP8-Grupo18\Entidades\bin\Debug\Entidades.pdb
+C:\Users\bubit\Desktop\TP8-Grupo18\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\bubit\Desktop\TP8-Grupo18\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\bubit\Desktop\TP8-Grupo18\Entidades\obj\Debug\Entidades.dll
+C:\Users\bubit\Desktop\TP8-Grupo18\Entidades\obj\Debug\Entidades.pdb

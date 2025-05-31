@@ -1,0 +1,9 @@
+C:\Users\bubit\Desktop\TP8-Grupo18\Datos\bin\Debug\Datos.dll
+C:\Users\bubit\Desktop\TP8-Grupo18\Datos\bin\Debug\Datos.pdb
+C:\Users\bubit\Desktop\TP8-Grupo18\Datos\bin\Debug\Entidades.dll
+C:\Users\bubit\Desktop\TP8-Grupo18\Datos\bin\Debug\Entidades.pdb
+C:\Users\bubit\Desktop\TP8-Grupo18\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\bubit\Desktop\TP8-Grupo18\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\bubit\Desktop\TP8-Grupo18\Datos\obj\Debug\Datos.csproj.Up2Date
+C:\Users\bubit\Desktop\TP8-Grupo18\Datos\obj\Debug\Datos.dll
+C:\Users\bubit\Desktop\TP8-Grupo18\Datos\obj\Debug\Datos.pdb

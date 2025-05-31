@@ -25,5 +25,15 @@ namespace Datos
                 return null;
             }
         }
+
+        public int EjecutarTransaccion(string consultaSql, SqlConnection conexion)
+        {
+            int filasAfectadas;
+            SqlCommand command = new SqlCommand(consultaSql, ObtenerConexion());
+            filasAfectadas = command.ExecuteNonQuery();
+            ObtenerConexion().Close();
+            return filasAfectadas;
+
+        }
     }
 }
