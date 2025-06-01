@@ -29,6 +29,11 @@
                 </tr>
             </table>
             <br />
+            Eliminar Sucursal<br />
+            <br />
+            Ingresar ID sucursal:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <asp:TextBox ID="txtEliminar" runat="server"></asp:TextBox>
+            <br />
         </div>
     </form>
 </body>

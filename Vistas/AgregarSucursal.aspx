@@ -12,9 +12,9 @@
         }
     </style>
 </head>
-<body>
+<body style="height: 176px">
     <form id="form1" runat="server">
-        <div>
+        <div style="height: 40px">
             <table class="auto-style1">
                 <tr>
                     <td>
@@ -30,6 +30,14 @@
             </table>
             <br />
         </div>
+        <p>
+            GRUPO NRO 18:</p>
+        <p>
+            Agregar Sucursal</p>
+        <p>
+            Nombre Sucursal:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <asp:TextBox ID="txtNombre" runat="server"></asp:TextBox>
+        </p>
     </form>
 </body>
 </html>
