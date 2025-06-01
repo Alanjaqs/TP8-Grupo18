@@ -33,6 +33,13 @@
             <br />
             Ingresar ID sucursal:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <asp:TextBox ID="txtEliminar" runat="server"></asp:TextBox>
+            &nbsp;
+            <asp:Button ID="btnEliminar" runat="server" Text="Eliminar" />
+&nbsp;
+            <asp:RequiredFieldValidator ID="rfvEliminar" runat="server" ControlToValidate="txtEliminar" ErrorMessage="Debe ingresar un ID">*</asp:RequiredFieldValidator>
+            <br />
+            <br />
+            <asp:Label ID="lblMensaje" runat="server"></asp:Label>
             <br />
         </div>
     </form>
