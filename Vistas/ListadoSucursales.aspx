@@ -29,6 +29,10 @@
                 </tr>
             </table>
             <br />
+            <asp:Label ID="lblListado" runat="server" Text="Listado de sucursales" Font-Bold="True" Font-Size="X-Large"></asp:Label>
+            <br /><br />
+            Búsqueda ingrese ID sucursal:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <asp:TextBox ID="txtBuscar" runat="server" Width="200px"></asp:TextBox>
         </div>
     </form>
 </body>

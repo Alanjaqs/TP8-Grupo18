@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
@@ -47,6 +48,16 @@ namespace Datos
             ObtenerConexion().Close();
             return filasAfectadas;
 
+        }
+
+        public DataTable ObtenerTabla(String nombreTabla, String consultaSql)
+        {
+            DataSet ds = new DataSet();
+            SqlConnection conexion = ObtenerConexion();
+            SqlDataAdapter adaptador = ObtenerAdaptador(consultaSql, conexion);
+            adaptador.Fill(ds, nombreTabla);
+            conexion.Close();
+            return ds.Tables[nombreTabla];
         }
     }
 }

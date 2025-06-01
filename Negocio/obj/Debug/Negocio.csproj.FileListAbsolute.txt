@@ -9,3 +9,14 @@ C:\Users\bubit\Desktop\TP8-Grupo18\Negocio\obj\Debug\Negocio.csproj.CoreCompileI
 C:\Users\bubit\Desktop\TP8-Grupo18\Negocio\obj\Debug\Negocio.csproj.Up2Date
 C:\Users\bubit\Desktop\TP8-Grupo18\Negocio\obj\Debug\Negocio.dll
 C:\Users\bubit\Desktop\TP8-Grupo18\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Usuario\Desktop\3CapasTP8\Negocio\bin\Debug\Negocio.dll
+C:\Users\Usuario\Desktop\3CapasTP8\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Usuario\Desktop\3CapasTP8\Negocio\bin\Debug\Datos.dll
+C:\Users\Usuario\Desktop\3CapasTP8\Negocio\bin\Debug\Entidades.dll
+C:\Users\Usuario\Desktop\3CapasTP8\Negocio\bin\Debug\Datos.pdb
+C:\Users\Usuario\Desktop\3CapasTP8\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Usuario\Desktop\3CapasTP8\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\3CapasTP8\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\3CapasTP8\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\Usuario\Desktop\3CapasTP8\Negocio\obj\Debug\Negocio.dll
+C:\Users\Usuario\Desktop\3CapasTP8\Negocio\obj\Debug\Negocio.pdb
