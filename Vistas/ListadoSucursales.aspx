@@ -32,11 +32,24 @@
             <asp:Label ID="lblListado" runat="server" Text="Listado de sucursales" Font-Bold="True" Font-Size="X-Large"></asp:Label>
             <br /><br />
             Búsqueda ingrese ID sucursal:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <asp:TextBox ID="txtBuscar" runat="server" Width="200px"></asp:TextBox>
+            <asp:TextBox ID="txtBuscar" runat="server" Width="200px" ValidationGroup="1"></asp:TextBox>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <asp:Button ID="btnFiltrar" runat="server" OnClick="Button1_Click" Text="Filtrar" />
+            <asp:Button ID="btnFiltrar" runat="server" OnClick="Button1_Click" Text="Filtrar" ValidationGroup="1" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <asp:Button ID="btnMostrar" runat="server" Text="Mostrar Todos" />
+        &nbsp;
+            <asp:RequiredFieldValidator ID="rfvBuscar" runat="server" ControlToValidate="txtBuscar" ErrorMessage="Debe ingresar un ID de sucursal" ValidationGroup="1">*</asp:RequiredFieldValidator>
+            <br />
+            <br />
+            <asp:GridView ID="gvSucursales" runat="server" AutoGenerateColumns="False">
+                <Columns>
+                    <asp:TemplateField HeaderText="Id_Sucursal"></asp:TemplateField>
+                    <asp:TemplateField HeaderText="Nombre"></asp:TemplateField>
+                    <asp:TemplateField HeaderText="Descripcion"></asp:TemplateField>
+                    <asp:TemplateField HeaderText="Provincia"></asp:TemplateField>
+                    <asp:TemplateField HeaderText="Direccion"></asp:TemplateField>
+                </Columns>
+            </asp:GridView>
         </div>
     </form>
 </body>

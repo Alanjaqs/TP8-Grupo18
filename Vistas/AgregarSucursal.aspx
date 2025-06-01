@@ -31,7 +31,7 @@
             <br />
         </div>
         <p>
-            GRUPO NRO 18:</p>
+            <strong>GRUPO NRO 18:</strong></p>
         <p>
             Agregar Sucursal</p>
         <p>
