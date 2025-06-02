@@ -23,9 +23,12 @@ namespace Vistas
             }
         }
 
-        protected void Button1_Click(object sender, EventArgs e)
+        protected void btnMostrar_Click(object sender, EventArgs e)
         {
-
+            DataTable tabla = negocio.ObtenerTablaSucursales();
+            gvSucursales.DataSource = tabla;
+            gvSucursales.DataBind();
+            txtBuscar.Text = "";
         }
     }
 }
