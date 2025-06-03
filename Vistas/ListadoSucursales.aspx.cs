@@ -30,6 +30,7 @@ namespace Vistas
             gvSucursales.DataBind();
             txtBuscar.Text = "";
         }
+
         protected void btnFiltrar_Click(object sender, EventArgs e)
         {
             string idSucursal = txtBuscar.Text;

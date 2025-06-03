@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    internal class Sucursal
+    public class Sucursal
     {
         private int IdSucursal;
         private string nombre;
@@ -22,6 +22,9 @@ namespace Entidades
             this.IdProvincia = idProvincia;
             this.direccion = direccion;
         }
+
+       
+
 
     }
 }

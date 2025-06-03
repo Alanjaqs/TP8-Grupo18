@@ -34,11 +34,15 @@
             Búsqueda ingrese ID sucursal:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <asp:TextBox ID="txtBuscar" runat="server" Width="200px" ValidationGroup="1"></asp:TextBox>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <asp:Button ID="btnFiltrar" runat="server" OnClick="Button1_Click" Text="Filtrar" ValidationGroup="1" />
+            <asp:Button ID="btnFiltrar" runat="server" OnClick="btnFiltrar_Click" Text="Filtrar" ValidationGroup="1" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <asp:Button ID="btnMostrar" runat="server" Text="Mostrar Todos" OnClick="btnMostrar_Click"/>
         &nbsp;
             <asp:RequiredFieldValidator ID="rfvBuscar" runat="server" ControlToValidate="txtBuscar" ErrorMessage="Debe ingresar un ID de sucursal" ValidationGroup="1">*</asp:RequiredFieldValidator>
+            &nbsp;<asp:RegularExpressionValidator ID="revBuscar" runat="server" ControlToValidate="txtBuscar" ErrorMessage="Solo se permiten numeros" ForeColor="Black" ValidationExpression="^\d+$" ValidationGroup="1">*</asp:RegularExpressionValidator>
+            <br />
+            <br />
+            <asp:ValidationSummary ID="vsBuscar" runat="server" ValidationGroup="1" />
             <br />
             <br />
             <asp:GridView ID="gvSucursales" runat="server" AutoGenerateColumns="False">

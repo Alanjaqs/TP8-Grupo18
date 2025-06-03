@@ -34,7 +34,7 @@
             Ingresar ID sucursal:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <asp:TextBox ID="txtEliminar" runat="server"></asp:TextBox>
             &nbsp;
-            <asp:Button ID="btnEliminar" runat="server" Text="Eliminar" />
+            <asp:Button ID="btnEliminar" runat="server" Text="Eliminar" OnClick="btnEliminar_Click" />
 &nbsp;
             <asp:RequiredFieldValidator ID="rfvEliminar" runat="server" ControlToValidate="txtEliminar" ErrorMessage="Debe ingresar un ID">*</asp:RequiredFieldValidator>
             <br />
