@@ -30,10 +30,10 @@
             </table>
             <br />
         </div>
-        <p>
-            <strong>GRUPO NRO 18:</strong></p>
-        <p>
-            Agregar Sucursal</p>
+       <asp:Label ID="lblGrupo" runat="server" Text="GRUPO NRO 18" Font-Bold="True" Font-Size="XX-Large"></asp:Label>
+        <br /><br /><br />
+        <asp:Label ID="lblAgregar" runat="server" Text="Agregar Sucursal" Font-Bold="True" Font-Size="X-Large"></asp:Label>
+        <br /><br />
         <p>
             Nombre Sucursal:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <asp:TextBox ID="txtNombre" runat="server"></asp:TextBox>

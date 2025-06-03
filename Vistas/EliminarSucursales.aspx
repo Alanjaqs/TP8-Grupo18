@@ -29,18 +29,20 @@
                 </tr>
             </table>
             <br />
-            Eliminar Sucursal<br />
-            <br />
+            <asp:Label ID="lblEliminar" runat="server" Text="Eliminar Sucursal" Font-Bold="True" Font-Size="X-Large"></asp:Label>
+            <br /><br />
             Ingresar ID sucursal:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <asp:TextBox ID="txtEliminar" runat="server"></asp:TextBox>
             &nbsp;
-            <asp:Button ID="btnEliminar" runat="server" Text="Eliminar" OnClick="btnEliminar_Click" />
+            <asp:Button ID="btnEliminar" runat="server" Text="Eliminar" OnClick="btnEliminar_Click" Height="26px" ValidationGroup="1" Width="69px" />
 &nbsp;
-            <asp:RequiredFieldValidator ID="rfvEliminar" runat="server" ControlToValidate="txtEliminar" ErrorMessage="Debe ingresar un ID">*</asp:RequiredFieldValidator>
+            <asp:RequiredFieldValidator ID="rfvEliminar" runat="server" ControlToValidate="txtEliminar" ErrorMessage="Debe ingresar un ID" ForeColor="Red" ValidationGroup="1">*</asp:RequiredFieldValidator>
+            <asp:RegularExpressionValidator ID="revEliminar" runat="server" ControlToValidate="txtEliminar" ErrorMessage="Solo se permiten numeros" ValidationGroup="1" ForeColor="Red" ValidationExpression="^\d+$">*</asp:RegularExpressionValidator>
             <br />
             <br />
-            <asp:Label ID="lblMensaje" runat="server"></asp:Label>
+            <asp:Label ID="lblMensaje" runat="server" ForeColor="Red"></asp:Label>
             <br />
+            <asp:ValidationSummary ID="vsEliminar" runat="server" ForeColor="Red" ValidationGroup="1" />
         </div>
     </form>
 </body>
