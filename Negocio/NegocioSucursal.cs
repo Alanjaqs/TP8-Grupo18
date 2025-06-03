@@ -18,6 +18,15 @@ namespace Negocio
             return filasAfectadas;
         }
 
+        public DataTable ObtenerTablaSucursales()
+        {
+            AccesoDatos datos = new AccesoDatos();
+            DataTable tabla = datos.ObtenerTabla("Sucursales", "SELECT S.Id_Sucursal AS ID_Sucursal, S.NombreSucursal AS Nombre, S.DescripcionSucursal AS Descripcion, P.DescripcionProvincia AS Provincia, S.DireccionSucursal AS Direccion FROM " +
+            "Sucursal S INNER JOIN Provincia P ON S.Id_ProvinciaSucursal = P.Id_Provincia");
+            return tabla;
+        }
+
+
         public DataTable ObtenerProvincias()
         {
             AccesoDatos datos = new AccesoDatos();

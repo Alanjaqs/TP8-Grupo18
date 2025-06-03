@@ -16,5 +16,13 @@ namespace Vistas
         {
             
         }
+
+        public void LimpiarCampos()
+        {
+            txtNombre.Text = "";
+            txtDescripcion.Text = "";
+            txtDireccion.Text = "";
+            ddlProvincia.SelectedIndex = 0;
+        }
     }
 }

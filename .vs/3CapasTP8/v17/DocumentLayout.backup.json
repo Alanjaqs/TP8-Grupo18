@@ -1,34 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "N:\\Desktop\\UTN 2do a\u00F1o\\Programacion III\\TP8-Grupo18\\",
+  "WorkspaceRootPath": "C:\\Users\\segov\\ENZO-PC\\Escritorio\\3\u00B0 cuatrimestre\\Programacion-3\\Unidad 8\\TP_8_GRUPO\\TP8-Grupo18\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5810D38-07D5-4204-92CA-74E429B75886}|Datos\\Datos.csproj|N:\\Desktop\\UTN 2do a\u00F1o\\Programacion III\\TP8-Grupo18\\datos\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5810D38-07D5-4204-92CA-74E429B75886}|Datos\\Datos.csproj|solutionrelative:datos\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3AFA08C-4075-4F5F-BFB1-67CF1A751A9D}|Negocio\\Negocio.csproj|N:\\Desktop\\UTN 2do a\u00F1o\\Programacion III\\TP8-Grupo18\\negocio\\negociosucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B3AFA08C-4075-4F5F-BFB1-67CF1A751A9D}|Negocio\\Negocio.csproj|C:\\Users\\segov\\ENZO-PC\\Escritorio\\3\u00B0 cuatrimestre\\Programacion-3\\Unidad 8\\TP_8_GRUPO\\TP8-Grupo18\\negocio\\negociosucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3AFA08C-4075-4F5F-BFB1-67CF1A751A9D}|Negocio\\Negocio.csproj|solutionrelative:negocio\\negociosucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE778AF7-C44F-4DC3-B659-D68F57BE6530}|Vistas\\Vistas.csproj|N:\\Desktop\\UTN 2do a\u00F1o\\Programacion III\\TP8-Grupo18\\vistas\\agregarsucursal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{FE778AF7-C44F-4DC3-B659-D68F57BE6530}|Vistas\\Vistas.csproj|solutionrelative:vistas\\agregarsucursal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{C38B9611-21F1-436C-A45C-553FF0D53AEA}|Entidades\\Entidades.csproj|c:\\users\\segov\\enzo-pc\\escritorio\\3\u00B0 cuatrimestre\\programacion-3\\unidad 8\\tp_8_grupo\\tp8-grupo18\\entidades\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C38B9611-21F1-436C-A45C-553FF0D53AEA}|Entidades\\Entidades.csproj|solutionrelative:entidades\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE778AF7-C44F-4DC3-B659-D68F57BE6530}|Vistas\\Vistas.csproj|n:\\desktop\\utn 2do a\u00F1o\\programacion iii\\tp8-grupo18\\vistas\\agregarsucursal.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE778AF7-C44F-4DC3-B659-D68F57BE6530}|Vistas\\Vistas.csproj|solutionrelative:vistas\\agregarsucursal.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5810D38-07D5-4204-92CA-74E429B75886}|Datos\\Datos.csproj|c:\\users\\segov\\enzo-pc\\escritorio\\3\u00B0 cuatrimestre\\programacion-3\\unidad 8\\tp_8_grupo\\tp8-grupo18\\datos\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5810D38-07D5-4204-92CA-74E429B75886}|Datos\\Datos.csproj|solutionrelative:datos\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE778AF7-C44F-4DC3-B659-D68F57BE6530}|Vistas\\Vistas.csproj|n:\\desktop\\utn 2do a\u00F1o\\programacion iii\\tp8-grupo18\\vistas\\eliminarsucursales.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{FE778AF7-C44F-4DC3-B659-D68F57BE6530}|Vistas\\Vistas.csproj|solutionrelative:vistas\\eliminarsucursales.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE778AF7-C44F-4DC3-B659-D68F57BE6530}|Vistas\\Vistas.csproj|N:\\Desktop\\UTN 2do a\u00F1o\\Programacion III\\TP8-Grupo18\\vistas\\listadosucursales.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{FE778AF7-C44F-4DC3-B659-D68F57BE6530}|Vistas\\Vistas.csproj|solutionrelative:vistas\\listadosucursales.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE778AF7-C44F-4DC3-B659-D68F57BE6530}|Vistas\\Vistas.csproj|N:\\Desktop\\UTN 2do a\u00F1o\\Programacion III\\TP8-Grupo18\\vistas\\listadosucursales.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FE778AF7-C44F-4DC3-B659-D68F57BE6530}|Vistas\\Vistas.csproj|c:\\users\\segov\\enzo-pc\\escritorio\\3\u00B0 cuatrimestre\\programacion-3\\unidad 8\\tp_8_grupo\\tp8-grupo18\\vistas\\listadosucursales.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE778AF7-C44F-4DC3-B659-D68F57BE6530}|Vistas\\Vistas.csproj|solutionrelative:vistas\\listadosucursales.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE778AF7-C44F-4DC3-B659-D68F57BE6530}|Vistas\\Vistas.csproj|C:\\Users\\segov\\ENZO-PC\\Escritorio\\3\u00B0 cuatrimestre\\Programacion-3\\Unidad 8\\TP_8_GRUPO\\TP8-Grupo18\\vistas\\agregarsucursal.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE778AF7-C44F-4DC3-B659-D68F57BE6530}|Vistas\\Vistas.csproj|solutionrelative:vistas\\agregarsucursal.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,100 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "Sucursal.cs",
+              "DocumentMoniker": "C:\\Users\\segov\\ENZO-PC\\Escritorio\\3\u00B0 cuatrimestre\\Programacion-3\\Unidad 8\\TP_8_GRUPO\\TP8-Grupo18\\Entidades\\Sucursal.cs",
+              "RelativeDocumentMoniker": "Entidades\\Sucursal.cs",
+              "ToolTip": "C:\\Users\\segov\\ENZO-PC\\Escritorio\\3\u00B0 cuatrimestre\\Programacion-3\\Unidad 8\\TP_8_GRUPO\\TP8-Grupo18\\Entidades\\Sucursal.cs",
+              "RelativeToolTip": "Entidades\\Sucursal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T17:18:55.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccesoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\segov\\ENZO-PC\\Escritorio\\3\u00B0 cuatrimestre\\Programacion-3\\Unidad 8\\TP_8_GRUPO\\TP8-Grupo18\\Datos\\AccesoDatos.cs",
+              "RelativeDocumentMoniker": "Datos\\AccesoDatos.cs",
+              "ToolTip": "C:\\Users\\segov\\ENZO-PC\\Escritorio\\3\u00B0 cuatrimestre\\Programacion-3\\Unidad 8\\TP_8_GRUPO\\TP8-Grupo18\\Datos\\AccesoDatos.cs",
+              "RelativeToolTip": "Datos\\AccesoDatos.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T17:18:41.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "AgregarSucursal.aspx.cs",
-              "DocumentMoniker": "N:\\Desktop\\UTN 2do a\u00F1o\\Programacion III\\TP8-Grupo18\\Vistas\\AgregarSucursal.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\segov\\ENZO-PC\\Escritorio\\3\u00B0 cuatrimestre\\Programacion-3\\Unidad 8\\TP_8_GRUPO\\TP8-Grupo18\\Vistas\\AgregarSucursal.aspx.cs",
               "RelativeDocumentMoniker": "Vistas\\AgregarSucursal.aspx.cs",
-              "ToolTip": "N:\\Desktop\\UTN 2do a\u00F1o\\Programacion III\\TP8-Grupo18\\Vistas\\AgregarSucursal.aspx.cs",
+              "ToolTip": "C:\\Users\\segov\\ENZO-PC\\Escritorio\\3\u00B0 cuatrimestre\\Programacion-3\\Unidad 8\\TP_8_GRUPO\\TP8-Grupo18\\Vistas\\AgregarSucursal.aspx.cs",
               "RelativeToolTip": "Vistas\\AgregarSucursal.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T14:50:37.448Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "NegocioSucursal.cs",
-              "DocumentMoniker": "N:\\Desktop\\UTN 2do a\u00F1o\\Programacion III\\TP8-Grupo18\\Negocio\\NegocioSucursal.cs",
+              "DocumentMoniker": "C:\\Users\\segov\\ENZO-PC\\Escritorio\\3\u00B0 cuatrimestre\\Programacion-3\\Unidad 8\\TP_8_GRUPO\\TP8-Grupo18\\Negocio\\NegocioSucursal.cs",
               "RelativeDocumentMoniker": "Negocio\\NegocioSucursal.cs",
-              "ToolTip": "N:\\Desktop\\UTN 2do a\u00F1o\\Programacion III\\TP8-Grupo18\\Negocio\\NegocioSucursal.cs",
+              "ToolTip": "C:\\Users\\segov\\ENZO-PC\\Escritorio\\3\u00B0 cuatrimestre\\Programacion-3\\Unidad 8\\TP_8_GRUPO\\TP8-Grupo18\\Negocio\\NegocioSucursal.cs",
               "RelativeToolTip": "Negocio\\NegocioSucursal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-01T01:06:36.739Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "ListadoSucursales.aspx.cs",
-              "DocumentMoniker": "N:\\Desktop\\UTN 2do a\u00F1o\\Programacion III\\TP8-Grupo18\\Vistas\\ListadoSucursales.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\segov\\ENZO-PC\\Escritorio\\3\u00B0 cuatrimestre\\Programacion-3\\Unidad 8\\TP_8_GRUPO\\TP8-Grupo18\\Vistas\\ListadoSucursales.aspx.cs",
               "RelativeDocumentMoniker": "Vistas\\ListadoSucursales.aspx.cs",
-              "ToolTip": "N:\\Desktop\\UTN 2do a\u00F1o\\Programacion III\\TP8-Grupo18\\Vistas\\ListadoSucursales.aspx.cs",
+              "ToolTip": "C:\\Users\\segov\\ENZO-PC\\Escritorio\\3\u00B0 cuatrimestre\\Programacion-3\\Unidad 8\\TP_8_GRUPO\\TP8-Grupo18\\Vistas\\ListadoSucursales.aspx.cs",
               "RelativeToolTip": "Vistas\\ListadoSucursales.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwCUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-01T00:43:13.628Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AccesoDatos.cs",
-              "DocumentMoniker": "N:\\Desktop\\UTN 2do a\u00F1o\\Programacion III\\TP8-Grupo18\\Datos\\AccesoDatos.cs",
-              "RelativeDocumentMoniker": "Datos\\AccesoDatos.cs",
-              "ToolTip": "N:\\Desktop\\UTN 2do a\u00F1o\\Programacion III\\TP8-Grupo18\\Datos\\AccesoDatos.cs",
-              "RelativeToolTip": "Datos\\AccesoDatos.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCQAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T16:59:06.793Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EliminarSucursales.aspx",
-              "DocumentMoniker": "N:\\Desktop\\UTN 2do a\u00F1o\\Programacion III\\TP8-Grupo18\\Vistas\\EliminarSucursales.aspx",
-              "RelativeDocumentMoniker": "Vistas\\EliminarSucursales.aspx",
-              "ToolTip": "N:\\Desktop\\UTN 2do a\u00F1o\\Programacion III\\TP8-Grupo18\\Vistas\\EliminarSucursales.aspx",
-              "RelativeToolTip": "Vistas\\EliminarSucursales.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-05-31T16:49:12.754Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ListadoSucursales.aspx",
-              "DocumentMoniker": "N:\\Desktop\\UTN 2do a\u00F1o\\Programacion III\\TP8-Grupo18\\Vistas\\ListadoSucursales.aspx",
-              "RelativeDocumentMoniker": "Vistas\\ListadoSucursales.aspx",
-              "ToolTip": "N:\\Desktop\\UTN 2do a\u00F1o\\Programacion III\\TP8-Grupo18\\Vistas\\ListadoSucursales.aspx",
-              "RelativeToolTip": "Vistas\\ListadoSucursales.aspx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-05-31T16:48:42.027Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AgregarSucursal.aspx",
-              "DocumentMoniker": "N:\\Desktop\\UTN 2do a\u00F1o\\Programacion III\\TP8-Grupo18\\Vistas\\AgregarSucursal.aspx",
-              "RelativeDocumentMoniker": "Vistas\\AgregarSucursal.aspx",
-              "ToolTip": "N:\\Desktop\\UTN 2do a\u00F1o\\Programacion III\\TP8-Grupo18\\Vistas\\AgregarSucursal.aspx",
-              "RelativeToolTip": "Vistas\\AgregarSucursal.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-05-31T16:48:14.098Z",
               "EditorCaption": ""
             }
           ]
