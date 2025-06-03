@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\3CapasTP8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE778AF7-C44F-4DC3-B659-D68F57BE6530}|Vistas\\Vistas.csproj|C:\\Users\\Usuario\\Desktop\\3CapasTP8\\vistas\\agregarsucursal.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE778AF7-C44F-4DC3-B659-D68F57BE6530}|Vistas\\Vistas.csproj|solutionrelative:vistas\\agregarsucursal.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE778AF7-C44F-4DC3-B659-D68F57BE6530}|Vistas\\Vistas.csproj|C:\\Users\\Usuario\\Desktop\\3CapasTP8\\vistas\\listadosucursales.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FE778AF7-C44F-4DC3-B659-D68F57BE6530}|Vistas\\Vistas.csproj|solutionrelative:vistas\\listadosucursales.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B3AFA08C-4075-4F5F-BFB1-67CF1A751A9D}|Negocio\\Negocio.csproj|C:\\Users\\Usuario\\Desktop\\3CapasTP8\\negocio\\negociosucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3AFA08C-4075-4F5F-BFB1-67CF1A751A9D}|Negocio\\Negocio.csproj|solutionrelative:negocio\\negociosucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FE778AF7-C44F-4DC3-B659-D68F57BE6530}|Vistas\\Vistas.csproj|C:\\Users\\Usuario\\Desktop\\3CapasTP8\\vistas\\listadosucursales.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE778AF7-C44F-4DC3-B659-D68F57BE6530}|Vistas\\Vistas.csproj|solutionrelative:vistas\\listadosucursales.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C38B9611-21F1-436C-A45C-553FF0D53AEA}|Entidades\\Entidades.csproj|C:\\Users\\Usuario\\Desktop\\3CapasTP8\\entidades\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C38B9611-21F1-436C-A45C-553FF0D53AEA}|Entidades\\Entidades.csproj|solutionrelative:entidades\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E5810D38-07D5-4204-92CA-74E429B75886}|Datos\\Datos.csproj|C:\\Users\\Usuario\\Desktop\\3CapasTP8\\datos\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5810D38-07D5-4204-92CA-74E429B75886}|Datos\\Datos.csproj|solutionrelative:datos\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE778AF7-C44F-4DC3-B659-D68F57BE6530}|Vistas\\Vistas.csproj|c:\\users\\usuario\\desktop\\3capastp8\\vistas\\agregarsucursal.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE778AF7-C44F-4DC3-B659-D68F57BE6530}|Vistas\\Vistas.csproj|solutionrelative:vistas\\agregarsucursal.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FE778AF7-C44F-4DC3-B659-D68F57BE6530}|Vistas\\Vistas.csproj|C:\\Users\\Usuario\\Desktop\\3CapasTP8\\vistas\\agregarsucursal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{FE778AF7-C44F-4DC3-B659-D68F57BE6530}|Vistas\\Vistas.csproj|solutionrelative:vistas\\agregarsucursal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE778AF7-C44F-4DC3-B659-D68F57BE6530}|Vistas\\Vistas.csproj|c:\\users\\usuario\\desktop\\3capastp8\\vistas\\listadosucursales.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE778AF7-C44F-4DC3-B659-D68F57BE6530}|Vistas\\Vistas.csproj|solutionrelative:vistas\\listadosucursales.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE778AF7-C44F-4DC3-B659-D68F57BE6530}|Vistas\\Vistas.csproj|C:\\Users\\Usuario\\Desktop\\3CapasTP8\\vistas\\listadosucursales.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{FE778AF7-C44F-4DC3-B659-D68F57BE6530}|Vistas\\Vistas.csproj|solutionrelative:vistas\\listadosucursales.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE778AF7-C44F-4DC3-B659-D68F57BE6530}|Vistas\\Vistas.csproj|C:\\Users\\Usuario\\Desktop\\3CapasTP8\\vistas\\eliminarsucursales.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FE778AF7-C44F-4DC3-B659-D68F57BE6530}|Vistas\\Vistas.csproj|C:\\Users\\Usuario\\Desktop\\3CapasTP8\\vistas\\eliminarsucursales.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{FE778AF7-C44F-4DC3-B659-D68F57BE6530}|Vistas\\Vistas.csproj|solutionrelative:vistas\\eliminarsucursales.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5810D38-07D5-4204-92CA-74E429B75886}|Datos\\Datos.csproj|C:\\Users\\Usuario\\Desktop\\3CapasTP8\\datos\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5810D38-07D5-4204-92CA-74E429B75886}|Datos\\Datos.csproj|solutionrelative:datos\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,12 +58,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "EliminarSucursales.aspx",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\3CapasTP8\\Vistas\\EliminarSucursales.aspx",
               "RelativeDocumentMoniker": "Vistas\\EliminarSucursales.aspx",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\3CapasTP8\\Vistas\\EliminarSucursales.aspx",
               "RelativeToolTip": "Vistas\\EliminarSucursales.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-06-03T17:53:39.759Z",
               "EditorCaption": ""
@@ -76,26 +77,27 @@
               "RelativeDocumentMoniker": "Negocio\\NegocioSucursal.cs",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\3CapasTP8\\Negocio\\NegocioSucursal.cs",
               "RelativeToolTip": "Negocio\\NegocioSucursal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-01T01:06:36.739Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "ListadoSucursales.aspx",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\3CapasTP8\\Vistas\\ListadoSucursales.aspx",
               "RelativeDocumentMoniker": "Vistas\\ListadoSucursales.aspx",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\3CapasTP8\\Vistas\\ListadoSucursales.aspx",
               "RelativeToolTip": "Vistas\\ListadoSucursales.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-06-03T17:35:17.417Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Sucursal.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\3CapasTP8\\Entidades\\Sucursal.cs",
               "RelativeDocumentMoniker": "Entidades\\Sucursal.cs",
@@ -108,46 +110,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ListadoSucursales.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\3CapasTP8\\Vistas\\ListadoSucursales.aspx.cs",
               "RelativeDocumentMoniker": "Vistas\\ListadoSucursales.aspx.cs",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\3CapasTP8\\Vistas\\ListadoSucursales.aspx.cs",
               "RelativeToolTip": "Vistas\\ListadoSucursales.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-01T00:43:13.628Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "AgregarSucursal.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\3CapasTP8\\Vistas\\AgregarSucursal.aspx.cs",
               "RelativeDocumentMoniker": "Vistas\\AgregarSucursal.aspx.cs",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\3CapasTP8\\Vistas\\AgregarSucursal.aspx.cs",
               "RelativeToolTip": "Vistas\\AgregarSucursal.aspx.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T14:50:37.448Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "AgregarSucursal.aspx",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\3CapasTP8\\Vistas\\AgregarSucursal.aspx",
               "RelativeDocumentMoniker": "Vistas\\AgregarSucursal.aspx",
               "ToolTip": "C:\\Users\\Usuario\\Desktop\\3CapasTP8\\Vistas\\AgregarSucursal.aspx",
               "RelativeToolTip": "Vistas\\AgregarSucursal.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-06-03T17:38:25.641Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
+              "Title": "AccesoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\3CapasTP8\\Datos\\AccesoDatos.cs",
+              "RelativeDocumentMoniker": "Datos\\AccesoDatos.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\3CapasTP8\\Datos\\AccesoDatos.cs",
+              "RelativeToolTip": "Datos\\AccesoDatos.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAwAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T17:18:41.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "EliminarSucursales.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\3CapasTP8\\Vistas\\EliminarSucursales.aspx.cs",
               "RelativeDocumentMoniker": "Vistas\\EliminarSucursales.aspx.cs",
@@ -156,19 +171,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T17:56:01.473Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AccesoDatos.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\3CapasTP8\\Datos\\AccesoDatos.cs",
-              "RelativeDocumentMoniker": "Datos\\AccesoDatos.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\3CapasTP8\\Datos\\AccesoDatos.cs",
-              "RelativeToolTip": "Datos\\AccesoDatos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T17:18:41.829Z",
               "EditorCaption": ""
             }
           ]

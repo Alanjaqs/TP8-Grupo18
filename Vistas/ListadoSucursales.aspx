@@ -35,25 +35,17 @@
             <asp:TextBox ID="txtBuscar" runat="server" Width="200px" ValidationGroup="1"></asp:TextBox>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <asp:Button ID="btnFiltrar" runat="server" OnClick="btnFiltrar_Click" Text="Filtrar" ValidationGroup="1" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <asp:Button ID="btnMostrar" runat="server" Text="Mostrar Todos" OnClick="btnMostrar_Click"/>
         &nbsp;
-            <asp:RequiredFieldValidator ID="rfvBuscar" runat="server" ControlToValidate="txtBuscar" ErrorMessage="Debe ingresar un ID de sucursal" ValidationGroup="1">*</asp:RequiredFieldValidator>
-            &nbsp;<asp:RegularExpressionValidator ID="revBuscar" runat="server" ControlToValidate="txtBuscar" ErrorMessage="Solo se permiten numeros" ForeColor="Black" ValidationExpression="^\d+$" ValidationGroup="1">*</asp:RegularExpressionValidator>
+            <asp:RequiredFieldValidator ID="rfvBuscar" runat="server" ControlToValidate="txtBuscar" ErrorMessage="Debe ingresar un ID de sucursal" ValidationGroup="1" ForeColor="Red">*</asp:RequiredFieldValidator>
+            &nbsp;<asp:RegularExpressionValidator ID="revBuscar" runat="server" ControlToValidate="txtBuscar" ErrorMessage="Solo se permiten numeros" ForeColor="Red" ValidationExpression="^\d+$" ValidationGroup="1">*</asp:RegularExpressionValidator>
             <br />
             <br />
-            <asp:ValidationSummary ID="vsBuscar" runat="server" ValidationGroup="1" />
+            <asp:ValidationSummary ID="vsBuscar" runat="server" ValidationGroup="1" ForeColor="Red" />
             <br />
             <br />
-            <asp:GridView ID="gvSucursales" runat="server" AutoGenerateColumns="False">
-                <Columns>
-                    <asp:TemplateField HeaderText="Id_Sucursal"></asp:TemplateField>
-                    <asp:TemplateField HeaderText="Nombre"></asp:TemplateField>
-                    <asp:TemplateField HeaderText="Descripcion"></asp:TemplateField>
-                    <asp:TemplateField HeaderText="Provincia"></asp:TemplateField>
-                    <asp:TemplateField HeaderText="Direccion"></asp:TemplateField>
-                </Columns>
-            </asp:GridView>
+            <asp:GridView ID="gvSucursales" runat="server"></asp:GridView>
         </div>
     </form>
 </body>
