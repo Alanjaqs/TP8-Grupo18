@@ -13,6 +13,7 @@ namespace Vistas
     public partial class AgregarSucursal : System.Web.UI.Page
     {
         NegocioSucursal negocio = new NegocioSucursal();
+        Sucursal sucursal;
         protected void Page_Load(object sender, EventArgs e)
         {
             UnobtrusiveValidationMode = UnobtrusiveValidationMode.None;
@@ -36,6 +37,17 @@ namespace Vistas
             txtDescripcion.Text = "";
             txtDireccion.Text = "";
             ddlProvincia.SelectedIndex = 0;
+        }
+
+        protected void btnAceptar_Click(object sender, EventArgs e)
+        {
+
+            string nombre = txtNombre.Text;
+            string descripcion = txtDescripcion.Text;
+            int IdProvincia = Convert.ToInt32(ddlProvincia.SelectedItem.Value);
+            string direccion = txtDireccion.Text;
+
+            sucursal = new Sucursal(nombre, descripcion, IdProvincia, direccion);
         }
     }
 }

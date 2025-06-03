@@ -61,7 +61,7 @@
         </p>
         <p>
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-            <asp:Button ID="btnAceptar" runat="server" Height="26px"  Text="Aceptar" ValidationGroup="1" Width="76px" />
+            <asp:Button ID="btnAceptar" runat="server" Height="26px"  Text="Aceptar" ValidationGroup="1" Width="76px" OnClick="btnAceptar_Click" />
         </p>
     </form>
 </body>
