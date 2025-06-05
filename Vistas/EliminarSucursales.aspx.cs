@@ -21,9 +21,9 @@ namespace Vistas
         {
             int IdSucursal = Convert.ToInt32(txtEliminar.Text);
 
-            int operacionExitosa = negocio.EliminarSucursal(IdSucursal);
+            bool operacionExitosa = negocio.EliminarSucursal(IdSucursal);
 
-            if (operacionExitosa == 1)
+            if (operacionExitosa)
             {
                 lblMensaje.Text = "La sucursal se ha eliminado con exito";
                 lblMensaje.ForeColor = Color.Green;
