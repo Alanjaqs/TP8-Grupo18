@@ -29,6 +29,12 @@ namespace Vistas
                 lblMensaje.ForeColor = Color.Green;
                 txtEliminar.Text = "";
             }
+            else
+            {
+                lblMensaje.Text = "El ID de sucursal no existe";
+                lblMensaje.ForeColor = Color.Red;
+                txtEliminar.Text = "";
+            }
         }
     }
 }

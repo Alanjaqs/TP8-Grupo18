@@ -39,7 +39,7 @@ namespace Vistas
             ddlProvincia.SelectedIndex = 0;
         }
 
-        protected void btnAceptar_Click(object sender, EventArgs e)
+         protected void btnAceptar_Click(object sender, EventArgs e)
         {
 
             string nombre = txtNombre.Text;
@@ -48,6 +48,20 @@ namespace Vistas
             string direccion = txtDireccion.Text;
 
             sucursal = new Sucursal(nombre, descripcion, IdProvincia, direccion);
+            bool operacionExitosa = negocio.AgregarSucursal(sucursal);
+
+            if (operacionExitosa)
+            {
+                lblMensaje.Text = "La sucursal se ha agregado con exito";
+                lblMensaje.ForeColor = Color.Green;
+                LimpiarCampos();
+            }
+            else
+            {
+                lblMensaje.Text = "La sucursal no pudo ser agregada";
+                lblMensaje.ForeColor = Color.Red;
+                LimpiarCampos();
+            }
         }
     }
 }
