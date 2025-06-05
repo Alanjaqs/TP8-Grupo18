@@ -1,9 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Datos",
+    "\\Entidades",
     "\\Negocio",
+    "\\Negocio\\Properties",
     "\\Vistas"
   ],
-  "SelectedNode": "\\Vistas\\AgregarSucursal.aspx",
+  "SelectedNode": "\\Datos\\AccesoDatos.cs",
   "PreviewInSolutionExplorer": false
 }

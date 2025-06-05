@@ -4,6 +4,7 @@ using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Entidades;
 
 namespace Datos
 {
@@ -40,6 +41,15 @@ namespace Datos
             "P.DescripcionProvincia AS Provincia, S.DireccionSucursal AS Direccion FROM " +
             "Sucursal S INNER JOIN Provincia P ON S.Id_ProvinciaSucursal = P.Id_Provincia WHERE S.Id_Sucursal = " + IdSucursal);
             return tabla;
+        }
+
+        public int AgregarSucursal(Sucursal sucursal)
+        {
+            int filasAfectadas;
+            AccesoDatos datos = new AccesoDatos();
+            filasAfectadas = datos.EjecutarTransaccion("INSERT INTO Sucursal (NombreSucursal, DescripcionSucursal, Id_ProvinciaSucursal, DireccionSucursal) " +
+            "VALUES ('" + sucursal.getNombre() + "', '" + sucursal.getDescripcion() + "', " + sucursal.getIdProvincia() + ", '" + sucursal.getDireccion() + "')", datos.ObtenerConexion());
+            return filasAfectadas;
         }
     }
 }
