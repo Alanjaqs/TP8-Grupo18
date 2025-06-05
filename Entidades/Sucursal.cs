@@ -23,7 +23,19 @@ namespace Entidades
             this.direccion = direccion;
         }
 
-       
+        
+        public int getIdSucursal() { return IdSucursal; }
+        public string getNombre() { return nombre; }
+        public string getDescripcion() { return descripcion; }
+        public int getIdProvincia() { return IdProvincia; }
+        public string getDireccion() { return direccion; }
+
+        
+        public void setIdSucursal(int id) { IdSucursal = id; }
+        public void setNombre(string nombre) { this.nombre = nombre; }
+        public void setDescripcion(string descripcion) { this.descripcion = descripcion; }
+        public void setIdProvincia(int id) { IdProvincia = id; }
+        public void setDireccion(string direccion) { this.direccion = direccion; }
 
 
     }

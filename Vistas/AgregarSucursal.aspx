@@ -63,6 +63,10 @@
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
             <asp:Button ID="btnAceptar" runat="server" Height="26px"  Text="Aceptar" ValidationGroup="1" Width="76px" OnClick="btnAceptar_Click" />
         </p>
+        &nbsp;<br />
+        <asp:Label ID="lblMensaje" runat="server"></asp:Label>
+        <asp:ValidationSummary ID="vsAgregar" runat="server" ForeColor="Red" ValidationGroup="1" />
+
     </form>
 </body>
 </html>
