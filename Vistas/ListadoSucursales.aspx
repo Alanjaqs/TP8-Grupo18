@@ -39,7 +39,7 @@
             <asp:Button ID="btnMostrar" runat="server" Text="Mostrar Todos" OnClick="btnMostrar_Click"/>
         &nbsp;
             <asp:RequiredFieldValidator ID="rfvBuscar" runat="server" ControlToValidate="txtBuscar" ErrorMessage="Debe ingresar un ID de sucursal" ValidationGroup="1" ForeColor="Red">*</asp:RequiredFieldValidator>
-            &nbsp;<asp:RegularExpressionValidator ID="revBuscar" runat="server" ControlToValidate="txtBuscar" ErrorMessage="Solo se permiten numeros" ForeColor="Red" ValidationExpression="^\d+$" ValidationGroup="1">*</asp:RegularExpressionValidator>
+            &nbsp; <asp:RegularExpressionValidator ID="revBuscar" runat="server" ControlToValidate="txtBuscar" ErrorMessage="Solo se permiten numeros" ForeColor="Red" ValidationExpression="^\d+$" ValidationGroup="1">*</asp:RegularExpressionValidator>
             <br />
             <br />
             <asp:ValidationSummary ID="vsBuscar" runat="server" ValidationGroup="1" ForeColor="Red" />
